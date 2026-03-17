@@ -25,8 +25,8 @@ Both games include a **live debug panel** showing the raw camera feed with hand 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/gesture-games.git
-cd gesture-games
+git clone https://github.com/iterauma/PongPPAA.git
+cd PongPPAA
 ```
 
 ### 2. Create and activate a virtual environment
